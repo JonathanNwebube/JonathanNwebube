@@ -28,6 +28,6 @@ I build clear, practical coding projects across web development, game developmen
 
 ## 📫 Contact
 - **Email:** jonwebube@gmail.com  
-- **LinkedIn:** * `linkedin.com/in/jonathannwebube`
+- **LinkedIn:** `linkedin.com/in/jonathannwebube`
 
 ---
