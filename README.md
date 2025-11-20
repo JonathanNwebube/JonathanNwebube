@@ -12,15 +12,24 @@ I build clear, practical coding projects across web development, game developmen
 
 ---
 
-## 🚀 Featured Projects
-- **Web Development:** *(coming soon)*  
-  Real-world apps focused on clean code, clear README docs, and simple deployments.
+## 🚀 Projects
 
-- **Game Development:** *(coming soon)*  
-  Small gameplay prototypes and mechanics to learn core systems thinking.
+### 🌐 Web Development  
+*(Coming soon)*  
+Real-world apps focused on clean code, clear documentation, and simple deployments.
 
-- **General Programming:** *(coming soon)*  
-  Algorithms, data structures, and useful scripts.
+---
+
+### 🎮 Game Development  
+#### **Frosty’s Downhill Dash**  
+A fast-paced, Christmas-themed arcade game built to explore gameplay loops and systems thinking.  
+👉 **[View on GitHub](https://github.com/JonathanNwebube/Frostys-Downhill-Dash-Game)**
+
+---
+
+### 🧰 General Programming:
+*(coming soon)*  
+ Algorithms, data structures, and useful scripts.
 
 > I’ll keep this area updated as I publish new work.
 
