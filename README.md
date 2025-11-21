@@ -14,9 +14,10 @@ I build clear, practical coding projects across web development, game developmen
 
 ## 🚀 Projects
 
-### 🌐 Web Development  
-*(Coming soon)*  
-Real-world apps focused on clean code, clear documentation, and simple deployments.
+### 🌐 Web Development
+#### **Haulage Tracker**
+A web-based platform for tracking, managing, and scheduling truck haulage times in accordance with EU and AETR driving regulations.
+👉 **[View on GitHub](https://github.com/JonathanNwebube/Truck-Haulage-Tracker)
 
 ---
 
