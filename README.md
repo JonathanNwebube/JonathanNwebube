@@ -18,7 +18,7 @@ I try to build clear, practical coding projects across web development, game dev
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
-## 🌐 Socials:
+## 📫 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathannwebube) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jonwebube@gmail.com) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -45,11 +45,5 @@ A fast-paced, Christmas-themed arcade game built to explore gameplay loops and s
  Algorithms, data structures, and useful scripts.
 
 > I’ll keep this area updated as I publish new work.
-
----
-
-## 📫 Contact
-- **Email:** jonwebube@gmail.com  
-- **LinkedIn:** `linkedin.com/in/jonathannwebube`
 
 ---
