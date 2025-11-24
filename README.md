@@ -1,4 +1,4 @@
-# Hi, I'm Jonathan 👋
+<h1 align="center">Hi, I'm Jonathan 👋</h1>
 
 I'm a student at the University of Nottingham studying Computer Science with Artificial Intelligence.  
 I try to build clear, practical coding projects across web development, game development, and general software engineering.  
