@@ -52,7 +52,7 @@ A Java implementation of the Reversi/Othello game using the MVC pattern, includi
 
 ### 🧰 General Programming:  
 #### **Wine Quality Analysis**  
-A Machine Learning coursework project analysing the **Wine Quality dataset**  
+A Machine Learning project analysing the **Wine Quality dataset**  
 👉 **[View on GitHub](https://github.com/JonathanNwebube/Wine-Quality-Analysis)**  
 
 
