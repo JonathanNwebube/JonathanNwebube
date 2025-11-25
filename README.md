@@ -45,8 +45,9 @@ A fast-paced, Christmas-themed arcade game built to explore gameplay loops and s
 👉 **[View on GitHub](https://github.com/JonathanNwebube/Frostys-Downhill-Dash-Game)**  
 
 #### **Reversi/Orthello Game**  
-A Java implementation of the Reversi/Othello game using the MVC pattern, including a custom GUI (CW2c) and full game-logic controller (CW2d), developed for COMP1009 Programming Paradigms
-👉 **[View on GitHub](https://github.com/JonathanNwebube/Reversi-Othello-COMP1009)**
+A Java implementation of the Reversi/Othello game using the MVC pattern, including a custom GUI and full game-logic controller.  
+👉 **[View on GitHub](https://github.com/JonathanNwebube/Reversi-Othello-COMP1009)**  
+
 ---
 
 ### 🧰 General Programming:
