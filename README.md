@@ -31,7 +31,11 @@ I try to build clear, practical coding projects across web development, game dev
 ### 🌐 Web Development
 #### **Haulage Tracker**
 A web-based platform for tracking, managing, and scheduling truck haulage times in accordance with EU and AETR driving regulations.  
-👉 **[View on GitHub](https://github.com/JonathanNwebube/Truck-Haulage-Tracker)**
+👉 **[View on GitHub](https://github.com/JonathanNwebube/Truck-Haulage-Tracker)**    
+
+#### **Database-Webapp**
+A web app for searching and adding vehicle and owner records via a Supabase database.  
+👉 **[View on GitHub](https://github.com/JonathanNwebube/Database-Webapp-COMP1004)**
 
 ---
 
@@ -43,9 +47,7 @@ A fast-paced, Christmas-themed arcade game built to explore gameplay loops and s
 ---
 
 ### 🧰 General Programming:
-#### **Database-Webapp**
-A web app for searching and adding vehicle and owner records via a Supabase database.  
-👉 **[View on GitHub](https://github.com/JonathanNwebube/Database-Webapp-COMP1004)**
+
 
 > I’ll keep this area updated as I publish new work.
 
