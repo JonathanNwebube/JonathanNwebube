@@ -43,8 +43,9 @@ A fast-paced, Christmas-themed arcade game built to explore gameplay loops and s
 ---
 
 ### 🧰 General Programming:
-*(coming soon)*  
- Algorithms, data structures, and useful scripts.
+#### **Database-Webapp**
+A web app for searching and adding vehicle and owner records via a Supabase database.  
+👉 **[View on GitHub](https://github.com/JonathanNwebube/Database-Webapp-COMP1004)**
 
 > I’ll keep this area updated as I publish new work.
 
